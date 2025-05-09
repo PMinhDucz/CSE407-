@@ -13,7 +13,7 @@ public class InventoryManager {
 
     public void updateInventory(Product product, int amount) {
         if (product == null) {
-            System.err.println("Loi: Khong the cap nhat ton kho cho san pham null."); // VIETNAMESE NO ACCENT
+            System.err.println("Loi: Khong the cap nhat ton kho cho san pham null."); 
             return;
         }
 
@@ -24,6 +24,6 @@ public class InventoryManager {
         System.out.println("Ton kho da duoc cap nhat cho san pham: " + product.getProductId() +
                            ". So luong cu: " + currentQuantity +
                            ", So luong thay doi: " + amount +
-                           ", So luong moi: " + newQuantity); // VIETNAMESE NO ACCENT
+                           ", So luong moi: " + newQuantity); 
     }
 }
