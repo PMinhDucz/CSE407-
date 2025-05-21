@@ -1,0 +1,12 @@
+com\mycompany\abstractfactory\AbstractFactory.class
+com\mycompany\abstractfactory\BookFromSupplierB.class
+com\mycompany\abstractfactory\IProduct.class
+com\mycompany\abstractfactory\ElectronicFromSupplierA.class
+com\mycompany\abstractfactory\IElectronicProduct.class
+com\mycompany\abstractfactory\IBookProduct.class
+com\mycompany\abstractfactory\BookFromSupplierA.class
+com\mycompany\abstractfactory\ElectronicFromSupplierB.class
+com\mycompany\abstractfactory\IWarehouseFactory.class
+com\mycompany\abstractfactory\SupplierBFactory.class
+com\mycompany\abstractfactory\SupplierAFactory.class
+com\mycompany\abstractfactory\WarehouseManager.class
