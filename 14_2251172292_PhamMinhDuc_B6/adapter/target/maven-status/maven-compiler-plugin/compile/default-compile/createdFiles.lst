@@ -1,0 +1,8 @@
+com\mycompany\adapter\KhoMoiAdapter.class
+com\mycompany\adapter\ThongTinSanPham.class
+com\mycompany\adapter\KhoCuAdapter.class
+com\mycompany\adapter\Adapter.class
+com\mycompany\adapter\HeThongQuanLyKhoChinh.class
+com\mycompany\adapter\IKhoHang.class
+com\mycompany\adapter\PhanMemKhoCu.class
+com\mycompany\adapter\DichVuKhoMoiCloud.class
