@@ -1,0 +1,6 @@
+com\mycompany\strategy\BarcodeScanStrategy.class
+com\mycompany\strategy\CycleCountStrategy.class
+com\mycompany\strategy\InventoryCheckingStrategy.class
+com\mycompany\strategy\ManualCountStrategy.class
+com\mycompany\strategy\Strategy.class
+com\mycompany\strategy\WarehouseManager.class
